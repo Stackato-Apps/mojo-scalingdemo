@@ -1,4 +1,4 @@
-name: scaling
+name: mojo-scalingdemo
 framework:
   type: perl
 instances: 3
