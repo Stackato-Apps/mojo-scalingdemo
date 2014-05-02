@@ -1,5 +1,5 @@
 name: mojo-scalingdemo
-framework:
-  type: perl
+buildpack: https://github.com/ActiveState/stackato-buildpack-perl.git
 instances: 3
 mem: 64M
+ignores: [ "local/",  ".git/" ]
