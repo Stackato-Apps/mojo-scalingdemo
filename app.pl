@@ -20,7 +20,7 @@ __DATA__
 <!doctype html5>
 <html>
 <head>
-<title>Stackato scaling test</title>
+<title>HPE Helion Stackato scaling test</title>
 <style type="text/css">
 body {
     background: black;
@@ -71,7 +71,7 @@ body {
 </head>
 <body>
 <div id="prettybox">
-    <div id="stackato">stackato scaling test</div>
+    <div id="stackato">HPE Helion Stackato scaling test</div>
 
     <div id="ipblock">
 	<div class="labeltext">the IP of this instance is:</div>

@@ -1,4 +1,4 @@
-# Stackato scaling demo
+# HPE Helion Stackato scaling demo
 
 ## Purpose
 
@@ -6,15 +6,15 @@ Displays IP and PID of the current instance of the app, useful for demonstrating
 
 ## Usage
 
-### via Stackato
+### via HPE Helion Stackato
 
     $ stackato push -n
 
 Then open http://scaling.stackato.local in a browser.
 
-### Without Stackato
+### Without HPE Helion Stackato
 
-It is possible to run the app without Stackato, if necessary.
+It is possible to run the app without HPE Helion Stackato, if necessary.
 
   1. carton install
   2. carton exec perl app.pl daemon
