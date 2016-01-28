@@ -2,6 +2,7 @@ applications:
 - name: mojo-scalingdemo
   instances: 3
   memory: 64M
+  stack: cflinuxfs2
   stackato:
     ignores:
     - local/
